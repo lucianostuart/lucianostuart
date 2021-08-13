@@ -1,4 +1,6 @@
-## Luciano Stuart 
+## Olá meu nome é Luciano Stuart 
+
+Tenho 15 anos sou estudante e gosto de aprender sobre diferentes técnologias.
 
 <div>
     <a href="https://github.com/lucianostuart">

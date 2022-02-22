@@ -1,6 +1,6 @@
 ## Olá meu nome é Luciano Stuart 
 
-Tenho 15 anos sou estudante e gosto de aprender sobre diferentes técnologias.
+Tenho 16 anos sou estudante do ensino medio, tenho interesse em desenvolvimento e segurança da informação.
 
 <div>
     <a href="https://github.com/lucianostuart">
